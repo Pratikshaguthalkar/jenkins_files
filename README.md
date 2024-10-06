@@ -1,6 +1,6 @@
 # jenkins_files
 
-pipeline {
+ pipeline {
     agent any
 
     stages {
