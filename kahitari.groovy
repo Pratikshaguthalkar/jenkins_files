@@ -1,7 +1,5 @@
 pipeline {
-    agent{
-        label 'dummy'
-    } 
+    agent any 
     stages{
         stage (pull){
             steps{
