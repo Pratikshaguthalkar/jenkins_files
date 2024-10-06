@@ -6,7 +6,7 @@ pipeline {
         stage (pull){
             steps{
                 echo "we are pulling from github1"
-                git "https://github.com/Pratikshaguthalkar/jenkins_files.git"
+                git "https://github.com/Pratikshaguthalkar/software-studetnapp-project.git"
             }
         }
 
