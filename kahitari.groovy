@@ -3,7 +3,7 @@ pipeline {
     stages{
         stage (pull){
             steps{
-                echo "we are pulling from github12345"
+                echo "we are pulling from github123454251"
             
             }
         }
